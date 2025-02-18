@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋, I'm [Sergey](https://github.com/Zigrik/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### I'm from Russia 🇷🇺 and currently learning golang
 [![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/zigrik.png)](https://www.codeabbey.com/index/user_profile/zigrik)
 <!--
 **Zigrik/zigrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
