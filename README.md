@@ -1,4 +1,4 @@
-## Hi 👋, I'm Sergey aka [Zigrik](https://github.com/Zigrik/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+## Hi 👋, I'm Sergey aka [Zigrik](https://github.com/Zigrik/)
 ### I'm from Russia 🇷🇺 and currently learning golang
 A little bit of my learning progress: <br>
 [My LeetCode stats](https://leetcode.com/Zigrik/)<br>
