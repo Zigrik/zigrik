@@ -1,7 +1,8 @@
 ## Hi 👋, I'm Sergey aka [Zigrik](https://github.com/Zigrik/)
-### I'm from Russia 🇷🇺 and currently learning golang
+### I'm from Russia and currently learning GOlang now
 A little bit of my learning progress: <br>
 [My LeetCode stats](https://leetcode.com/Zigrik/)<br>
+and<br>
 [![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/zigrik.png)](https://www.codeabbey.com/index/user_profile/zigrik)
 <!--
 **Zigrik/zigrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
