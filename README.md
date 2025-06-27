@@ -1,4 +1,4 @@
-## Hi 👋, I'm Sergey aka [Zigrik](https://github.com/Zigrik/)
+## Hi 👋, I'm Sergey Smirnov aka [Zigrik](https://github.com/Zigrik/)
 ### I'm from Russia and currently learning GOlang now on [Yandex practicum](https://practicum.yandex.ru/)
 A little bit of my learning progress: <br>
 [My LeetCode stats](https://leetcode.com/Zigrik/)<br>
